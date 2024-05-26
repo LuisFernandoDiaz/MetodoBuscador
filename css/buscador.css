@@ -1,0 +1,1033 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    text-align: center;
+    background-color: #E4DACE;
+    
+}
+.sd {
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+#articulo{
+    margin: 80px;
+}
+
+.box-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    text-align: center;
+}
+.title {
+    margin-bottom: 30px;/*espacio de la abajo*/
+    font-size: 55px;/*tamaño de las letras*/
+    text-transform: uppercase;/*mayuscula*/
+    font-family: Algerian;/*Fuentes de letras*/
+    color: #1b0202;
+    /*margin-top: 400px;*/
+}
+input{
+    width: 50vw;
+    padding: 10px;
+    font-size: 20px;
+    outline: none;
+    border: 5px solid #ccd1e4;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+h3 {
+    font-family: Calibri ;
+    text-transform: uppercase;
+    font-size: 22px;
+    color: #171717;
+    -webkit-text-stroke: 1px black;
+    color: #fff; 
+    margin-top: 6vh;
+}
+
+/*____________________________________________*/
+
+
+/*POLERA Hombre"*/
+ 
+.box-container .box1{
+    background: url(../img/casa.h1.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box1:hover {
+    background: url(../img/casa.h1.png) no-repeat center;
+ 
+}
+.box-container .box2{
+    background: url(../img/casa.h3.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box2:hover {
+    background: url(../img/casa.h3.png) no-repeat center;
+ 
+}
+.box-container .box3{
+    background: url(../img/casa.h8.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box3:hover {
+    background: url(../img/casa.h8.png) no-repeat center;
+ 
+}
+.box-container .box4{
+    background: url(../img/casa.h2.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box4:hover {
+    background: url(../img/casa.h2.png) no-repeat center;
+ 
+}
+.box-container .box5{
+    background: url(../img/casa.h4.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box5:hover {
+    background: url(../img/casa.h4.png) no-repeat center;
+ 
+}
+.box-container .box6{
+    background: url(../img/casa.h5.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box6:hover {
+    background: url(../img/casa.h5.png) no-repeat center;
+ 
+}
+.box-container .box7{
+    background: url(../img/casa.h6.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box7:hover {
+    background: url(../img/casa.h6.png) no-repeat center;
+ 
+}
+.box-container .box8{
+    background: url(../img/casa.h7.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box8:hover {
+    background: url(../img/casa.h7.png) no-repeat center;
+ 
+}
+.box-container .box9{
+    background: url(../img/casa.h9.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box9:hover {
+    background: url(../img/casa.h9.png) no-repeat center;
+ 
+}
+
+ /*__________*/
+/*Casaca Mujeres"*/
+
+.box-container .box10{
+    background: url(../img/casa.m1.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box10:hover {
+    background: url(../img/casa.m1.png) no-repeat center;
+ 
+}
+.box-container .box11{
+    background: url(../img/casa.m2.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box11:hover {
+    background: url(../img/casa.m2.png) no-repeat center;
+ 
+}
+.box-container .box12{
+    background: url(../img/casa.m3.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box12:hover {
+    background: url(../img/casa.m3.png) no-repeat center;
+ 
+}
+.box-container .box13{
+    background: url(../img/casa.m4.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box13:hover {
+    background: url(../img/casa.m4.png) no-repeat center;
+ 
+}
+.box-container .box14{
+    background: url(../img/casa.m5.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box14:hover {
+    background: url(../img/casa.m5.png) no-repeat center;
+ 
+}
+.box-container .box15{
+    background: url(../img/casa.m6.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box15:hover {
+    background: url(../img/casa.m6.png) no-repeat center;
+ 
+}
+.box-container .box16{
+    background: url(../img/casa.m7.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box16:hover {
+    background: url(../img/casa.m7.png) no-repeat center;
+ 
+}
+.box-container .box17{
+    background: url(../img/casa.m8.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box17:hover {
+    background: url(../img/casa.m8.png) no-repeat center;
+ 
+}
+.box-container .box18{
+    background: url(../img/casa.m9.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box18:hover {
+    background: url(../img/casa.m9.png) no-repeat center;
+ 
+}
+
+
+/*________________________________________*/
+
+/* pantalones hombres   */
+
+.box-container .box19{
+    background: url(../img/pan.h1.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box19:hover {
+    background: url(../img/pan.h1.png) no-repeat center;
+ 
+}
+.box-container .box20{
+    background: url(../img/pan.h2.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box20:hover {
+    background: url(../img/pan.h2.png) no-repeat center;
+ 
+}
+.box-container .box21{
+    background: url(../img/pan.h3.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box21:hover {
+    background: url(../img/pan.h3.png) no-repeat center;
+ 
+}
+.box-container .box22{
+    background: url(../img/pan.h4.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box22:hover {
+    background: url(../img/pan.h4.png) no-repeat center;
+ 
+}
+.box-container .box23{
+    background: url(../img/pan.h5.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box23:hover {
+    background: url(../img/pan.h5.png) no-repeat center;
+ 
+}
+.box-container .box24{
+    background: url(../img/pan.h6.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box24:hover {
+    background: url(../img/pan.h6.png) no-repeat center;
+ 
+}
+.box-container .box25{
+    background: url(../img/pan.h7.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box25:hover {
+    background: url(../img/pan.h7.png) no-repeat center;
+ 
+}
+.box-container .box26{
+    background: url(../img/pan.h8.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box26:hover {
+    background: url(../img/pan.h8.png) no-repeat center;
+ 
+}
+.box-container .box27{
+    background: url(../img/pan.h9.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box27:hover {
+    background: url(../img/pan.h9.png) no-repeat center;
+ 
+}
+
+/* pantalones mujeres */
+
+.box-container .box28{
+    background: url(../img/pan.m1.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box28:hover {
+    background: url(../img/pan.m1.png) no-repeat center;
+ 
+}
+.box-container .box29{
+    background: url(../img/pan.m2.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box29:hover {
+    background: url(../img/pan.m2.png) no-repeat center;
+ 
+}
+.box-container .box30{
+    background: url(../img/pan.m3.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box30:hover {
+    background: url(../img/pan.m3.png) no-repeat center;
+ 
+}
+.box-container .box31{
+    background: url(../img/pan.m4.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box31:hover {
+    background: url(../img/pan.m4.png) no-repeat center;
+ 
+}
+.box-container .box32{
+    background: url(../img/pan.m5.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box32:hover {
+    background: url(../img/pan.m5.png) no-repeat center;
+ 
+}
+.box-container .box33{
+    background: url(../img/pan.m6.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box33:hover {
+    background: url(../img/pan.m6.png) no-repeat center;
+ 
+}
+.box-container .box34{
+    background: url(../img/pan.m7.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box34:hover {
+    background: url(../img/pan.m7.png) no-repeat center;
+ 
+}
+.box-container .box35{
+    background: url(../img/pan.m8.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box35:hover {
+    background: url(../img/pan.m8.png) no-repeat center;
+ 
+}
+.box-container .box36{
+    background: url(../img/pan.m9.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box36:hover {
+    background: url(../img/pan.m9.png) no-repeat center;
+ 
+}
+
+
+/*     polos hombres        */
+
+.box-container .box37{
+    background: url(../img/polo.h1.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box37:hover {
+    background: url(../img/polo.h1.png) no-repeat center;
+ 
+}
+.box-container .box38{
+    background: url(../img/polo.h2.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box38:hover {
+    background: url(../img/polo.h2.png) no-repeat center;
+ 
+}
+.box-container .box39{
+    background: url(../img/polo.h3.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box39:hover {
+    background: url(../img/polo.h3.png) no-repeat center;
+ 
+}
+.box-container .box40{
+    background: url(../img/polo.h4.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box40:hover {
+    background: url(../img/polo.h4.png) no-repeat center;
+ 
+}
+.box-container .box41{
+    background: url(../img/polo.h5.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box41:hover {
+    background: url(../img/polo.h5.png) no-repeat center;
+ 
+}
+.box-container .box42{
+    background: url(../img/polo.h6.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box42:hover {
+    background: url(../img/polo.h6.png) no-repeat center;
+ 
+}
+.box-container .box43{
+    background: url(../img/polo.h7.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box43:hover {
+    background: url(../img/polo.h7.png) no-repeat center;
+ 
+}
+.box-container .box44{
+    background: url(../img/polo.h8.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box44:hover {
+    background: url(../img/polo.h8.png) no-repeat center;
+ 
+}
+.box-container .box45{
+    background: url(../img/polo.h9.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box45:hover {
+    background: url(../img/polo.h9.png) no-repeat center;
+ 
+}
+
+
+/*     polos mujeres        */
+
+.box-container .box46{
+    background: url(../img/polo.m1.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box46:hover {
+    background: url(../img/polo.m1.png) no-repeat center;
+ 
+}
+.box-container .box47{
+    background: url(../img/polo.m2.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box47:hover {
+    background: url(../img/polo.m2.png) no-repeat center;
+ 
+}
+.box-container .box48{
+    background: url(../img/polo.m3.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box48:hover {
+    background: url(../img/polo.m3.png) no-repeat center;
+ 
+}
+.box-container .box49{
+    background: url(../img/polo.m4.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box49:hover {
+    background: url(../img/polo.m4.png) no-repeat center;
+ 
+}
+.box-container .box50{
+    background: url(../img/polo.m5.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box50:hover {
+    background: url(../img/polo.m5.png) no-repeat center;
+ 
+}
+.box-container .box51{
+    background: url(../img/polo.m6.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box51:hover {
+    background: url(../img/polo.m6.png) no-repeat center;
+ 
+}
+.box-container .box52{
+    background: url(../img/polo.m7.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box52:hover {
+    background: url(../img/polo.m7.png) no-repeat center;
+ 
+}
+.box-container .box53{
+    background: url(../img/polo.m8.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box53:hover {
+    background: url(../img/polo.m8.png) no-repeat center;
+ 
+}
+.box-container .box54{
+    background: url(../img/polo.m9.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box54:hover {
+    background: url(../img/polo.m9.png) no-repeat center;
+ 
+}
+
+/*      zapatillas hombres     */
+
+
+.box-container .box55{
+    background: url(../img/za.h1.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box55:hover {
+    background: url(../img/za.h1.png) no-repeat center;
+ 
+}
+.box-container .box56{
+    background: url(../img/za.h2.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box56:hover {
+    background: url(../img/za.h2.png) no-repeat center;
+ 
+}
+.box-container .box57{
+    background: url(../img/za.h3.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box57:hover {
+    background: url(../img/za.h3.png) no-repeat center;
+ 
+}
+.box-container .box58{
+    background: url(../img/za.h4.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box58:hover {
+    background: url(../img/za.h4.png) no-repeat center;
+ 
+}
+.box-container .box59{
+    background: url(../img/za.h5.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box59:hover {
+    background: url(../img/za.h5.png) no-repeat center;
+ 
+}
+.box-container .box60{
+    background: url(../img/za.h6.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box60:hover {
+    background: url(../img/za.h6.png) no-repeat center;
+ 
+}
+.box-container .box61{
+    background: url(../img/za.h7.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box61:hover {
+    background: url(../img/za.h7.png) no-repeat center;
+ 
+}
+.box-container .box62{
+    background: url(../img/za.h8.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box62:hover {
+    background: url(../img/za.h8.png) no-repeat center;
+ 
+}
+.box-container .box63{
+    background: url(../img/za.h9.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box63:hover {
+    background: url(../img/za.h9.png) no-repeat center;
+ 
+}
+
+/*    zapatillas mujeres   */
+
+
+
+.box-container .box64{
+    background: url(../img/za.m1.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box64:hover {
+    background: url(../img/za.m1.png) no-repeat center;
+ 
+}
+.box-container .box65{
+    background: url(../img/za.m2.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box65:hover {
+    background: url(../img/za.m2.png) no-repeat center;
+ 
+}
+.box-container .box66{
+    background: url(../img/za.m3.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box66:hover {
+    background: url(../img/za.m3.png) no-repeat center;
+ 
+}
+.box-container .box67{
+    background: url(../img/za.m4.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box67:hover {
+    background: url(../img/za.m4.png) no-repeat center;
+ 
+}
+.box-container .box68{
+    background: url(../img/za.m5.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box68:hover {
+    background: url(../img/za.m5.png) no-repeat center;
+ 
+}
+.box-container .box69{
+    background: url(../img/za.m6.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box69:hover {
+    background: url(../img/za.m6.png) no-repeat center;
+ 
+}
+.box-container .box70{
+    background: url(../img/za.m7.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box70:hover {
+    background: url(../img/za.m7.png) no-repeat center;
+ 
+}
+.box-container .box71{
+    background: url(../img/za.m8.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box71:hover {
+    background: url(../img/za.m8.png) no-repeat center;
+ 
+}
+.box-container .box72{
+    background: url(../img/za.m9.png) no-repeat center; /*iamgen centrada*/
+    background-size: cover; /*una destancia normal de la iamgen*/
+    height: 12rem;
+    width: 14rem;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgba(0, 0 , 0, 5);
+    margin: 2rem;
+}
+.box-container .box72:hover {
+    background: url(../img/za.m9.png) no-repeat center;
+ 
+}
+
+
+
+
+
+.filtro{
+    display: none;
+}
